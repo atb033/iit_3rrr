@@ -1,0 +1,1 @@
+double scanner(double (*function)(double, double, double*), double , double , double , double , double *);

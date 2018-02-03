@@ -1,0 +1,25 @@
+# This file contains information about inputs as read by the program
+
+ Population size = 200
+ Number of generations = 200
+ Number of objective functions = 2
+ Number of constraints = 1
+ Number of real variables = 5
+ Lower limit of real variable 1 = 3.000000e-01
+ Upper limit of real variable 1 = 1.000000e+00
+ Lower limit of real variable 2 = 1.500000e-01
+ Upper limit of real variable 2 = 5.000000e-01
+ Lower limit of real variable 3 = 1.500000e-01
+ Upper limit of real variable 3 = 5.000000e-01
+ Lower limit of real variable 4 = 5.000000e-02
+ Upper limit of real variable 4 = 3.000000e-01
+ Lower limit of real variable 5 = -1.750000e+02
+ Upper limit of real variable 5 = 1.750000e+02
+ Probability of crossover of real variable = 9.000000e-01
+ Probability of mutation of real variable = 2.000000e-01
+ Distribution index for crossover = 5.000000e+00
+ Distribution index for mutation = 3.500000e+01
+ Number of binary variables = 0
+ Seed for random number generator = 1.000000e-01
+ Number of crossover of real variable = 17849
+ Number of mutation of real variable = 39786
